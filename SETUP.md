@@ -53,8 +53,10 @@ Copy the deployed contract address printed by `migrate`.
 
 ## 5. Update Unity Blockchain Config
 
-Edit:
+Only edit this Unity file:
 `UnityProject/Assets/StreamingAssets/blockchain_config.json`
+
+Do not modify other Unity files.
 
 Set:
 
