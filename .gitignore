@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Truffle build output
+build/
+
+# Unity generated
+UnityProject/Library/
+UnityProject/Temp/
+UnityProject/Logs/
+UnityProject/UserSettings/
+UnityProject/obj/
+GUIDE.md
+# Sensitive — never commit real keys
+# blockchain_config.json   ← uncomment this line when using real keys
+
+# OS
+.DS_Store
+Thumbs.db

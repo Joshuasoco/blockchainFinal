@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-final",
+  "version": "1.0.0",
+  "description": "Truffle project for Unity-Ganache integration",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --network development",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "truffle": "^5.11.0"
+  }
+}
